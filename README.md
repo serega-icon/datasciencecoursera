@@ -1,3 +1,3 @@
-##DataScience Coursera Project
+## DataScience Coursera Project
 
 Create repo task
